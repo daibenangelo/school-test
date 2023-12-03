@@ -11,7 +11,7 @@ ENV REAL_IP_HEADER 1
 
 # Laravel config
 ENV APP_ENV production
-ENV APP_KEY base64:Lzc2kXf8bQidRpjtuzC7VcJF/nhVlVZxiCa3X/LhDIc=
+ENV APP_KEY Lzc2kXf8bQidRpjtuzC7VcJF/nhVlVZxiCa3X/LhDIc=
 ENV APP_DEBUG false
 ENV DB_CONNECTION pgsql
 ENV DB_HOST dpg-clm1hfkjtl8s73er8a3g-a
