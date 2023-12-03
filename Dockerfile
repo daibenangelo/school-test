@@ -12,6 +12,7 @@ ENV REAL_IP_HEADER 1
 # Laravel config
 ENV APP_ENV production
 ENV APP_DEBUG false
+ENV APP_KEY nj3r3z+7xa7BeQ+WUA8OdUTK0H4U4clRoQUIIBgrr6Y=
 ENV LOG_CHANNEL stderr
 ENV DB_CONNECTION pgsql
 ENV DB_HOST dpg-clm1hfkjtl8s73er8a3g-a
