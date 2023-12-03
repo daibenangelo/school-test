@@ -4,7 +4,6 @@ composer global require hirak/prestissimo
 composer install --working-dir=/var/www/html
 
 echo "Generating application key..."
-php artisan key:generate --show
 
 echo "Caching config..."
 php artisan config:cache
