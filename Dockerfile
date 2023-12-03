@@ -12,7 +12,7 @@ ENV REAL_IP_HEADER 1
 # Laravel config
 ENV APP_ENV production
 ENV APP_DEBUG false
-ENV DB_CONNECTION mysql
+ENV DB_CONNECTION pgsql
 ENV DB_HOST dpg-clm1hfkjtl8s73er8a3g-a
 ENV DB_PORT 5432
 ENV DB_DATABASE school_otpp
